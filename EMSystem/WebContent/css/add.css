@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+.eleOpe{
+	border: inset lavender;
+	text-align: center;
+	font-family: "楷体";
+	font-size: 25px;
+	height:530px;
+}
+.eleOpe span{
+	font-family: inherit;
+	font-size: 50px;	
+}
+	

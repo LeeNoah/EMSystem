@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+.display_table td{
+	width:250px;
+	
+}
+
+#div1{
+	font-family: inherit;
+	font-size: 30px;
+	text-align:center;
+}
+	
+#divSelect option{
+	width:60px;	
+}
+
