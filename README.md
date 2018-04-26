@@ -1,7 +1,7 @@
 # EMSystem
-EducationalManagerSystem，WEB project实现一个网页版教务管理系统
+EducationalManagerSystem，B/S系统实现一个网页版教务管理系统
 
-web项目，目的是实现一个网页版学校教务管理系统
+B/S系统，目的是实现一个网页版学校教务管理系统
 项目采用了JavaEE三层架构，即web层、service层和dao层
 技术主要采用了jsp+servlet+JavaBean
 
